@@ -2,9 +2,9 @@
   "name": "Nombre",
   "version": "0.0.0",
   "description": "",
-  "main": "ds01.js",
+  "main": "Ds01.js",
   "scripts": {
-  "start": "ds01.js"
+  "start": "Ds01.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
